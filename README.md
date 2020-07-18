@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfoliov2-2963d.appspot.com/o/github-final.png?alt=media&token=6bf9eff3-08b6-4405-ba69-6e6c0476dda8" alt="Namaste!"/><br><br>
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfoliov2-2963d.appspot.com/o/githubfinal.png?alt=media&token=e72d24cc-368e-4702-b762-7b214504805b" alt="Namaste!"/><br><br>
     <strong>I am a student of Computer Science at SRM University, KTR. I am a Full stack developer. Experienced in Web development, Blockchain Development, Logics, Android App development.</strong>
 </p><br>
 
