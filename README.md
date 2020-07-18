@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co/Y3RK0FH/github-banner-01.png" alt="Namaste!"/>
+    <img src="https://i.ibb.co/bmBHfvz/Untitled-1-01.png" alt="Namaste!" style="width:100%"/>
     <strong>I am a student of Computer Science at SRM University, KTE. I am a Full stack developer. Experienced in Web development, Blockchain Development, Logics, Android App development.</strong>
 </p><br>
 
