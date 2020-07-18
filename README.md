@@ -8,7 +8,7 @@
 <br><br>
 
 <details align="center">
-    <summary align="center"><strong>Programming Languages:</strong></summary>
+    <summary align="center"><strong>Programming Languages:</strong></summary><br>
      <table align="center">
          <tr align="center">
              <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
@@ -27,7 +27,7 @@
      </table>
         </details>
  <details align="center">
-    <summary align="center"><strong>Tools and Technologies:</strong></summary>
+    <summary align="center"><strong>Tools and Technologies:</strong></summary><br>
      <table align="center">
          <tr align="center">
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/android-os.png"/><br>Android SDK</td>
@@ -46,7 +46,7 @@
      </table>
         </details>
 <details align="center">
-    <summary align="center"><strong>Contact:</strong></summary>
+    <summary align="center"><strong>Contact:</strong></summary><br>
      <table align="center">
          <tr align="center">
              <td  align = "center"><a href="https://www.bucharitesh.in"><img src="https://img.icons8.com/fluent/24/000000/domain.png"/><br>Website</a></td>
