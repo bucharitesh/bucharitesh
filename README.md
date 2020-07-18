@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfoliov2-2963d.appspot.com/o/github-final.png?alt=media&token=6bf9eff3-08b6-4405-ba69-6e6c0476dda8" alt="Namaste!"/><br><br>
-    <strong>I am a student of Computer Science at SRM University, KTE. I am a Full stack developer. Experienced in Web development, Blockchain Development, Logics, Android App development.</strong>
+    <strong>I am a student of Computer Science at SRM University, KTR. I am a Full stack developer. Experienced in Web development, Blockchain Development, Logics, Android App development.</strong>
 </p><br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/bucharitesh) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=bucharitesh.visitor-badge)](https://github.com/bucharitesh) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bucharitesh)
