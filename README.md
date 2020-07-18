@@ -13,13 +13,13 @@
 
 [Instagram](https://www.instagram.com/bucha._.ritesh/)
 
-
+<!--
 <p align="center">
     <img src="https://i.ibb.co/F7K3p5N/amannirala13-namaste-light.jpg" alt="Namaste!"/>
     <strong>I am a student of Computer Science at Symbiosis International University. Experienced in Android Development using Java and Kotlin, Blockchain Development, Computer Vision (Open CV), Physics Simulations, Computer Networks, Virtualization for Cloud Computing and Big Data, Data Science, Machine Learning, and Quantum Computing.</strong>
-</p><br>
+</p><br>-->
 
-
+<!--
  <details align="center">
     <summary align="center"><strong>Programming Languages:</strong></summary>
      <table align="center">
@@ -94,7 +94,7 @@
      </tr>
     </table>
 </details>
-
+-->
 <!--
 **amannirala13/amannirala13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
