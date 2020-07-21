@@ -5,10 +5,9 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/bucharitesh) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=bucharitesh.visitor-badge)](https://github.com/bucharitesh) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bucharitesh)
 
-<br><br>
-
+<br/><br/>
 <details align="center">
-    <summary align="center"><strong>Programming Languages:</strong></summary><br>
+    <summary align="center"><strong>Programming Languages:</strong></summary><br/>
      <table align="center">
          <tr align="center">
              <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
@@ -27,7 +26,7 @@
      </table>
         </details>
  <details align="center">
-    <summary align="center"><strong>Tools and Technologies:</strong></summary><br>
+    <summary align="center"><strong>Tools and Technologies:</strong></summary><br/>
      <table align="center">
          <tr align="center">
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/android-os.png"/><br>Android SDK</td>
@@ -46,7 +45,7 @@
      </table>
         </details>
 <details align="center">
-    <summary align="center"><strong>Contact:</strong></summary><br>
+    <summary align="center"><strong>Contact:</strong></summary><br/>
      <table align="center">
          <tr align="center">
              <td  align = "center"><a href="https://www.bucharitesh.in"><img src="https://img.icons8.com/fluent/24/000000/domain.png"/><br>Website</a></td>
@@ -59,7 +58,18 @@
 </details>
 
 <br/>
-[![Ritesh's github stats](https://github-readme-stats.vercel.app/api?username=bucharitesh)](https://github.com/bucharitesh/github-readme-stats)
+
+[![Ritesh's github stats](https://github-readme-stats.vercel.app/api?username=bucharitesh&hide=["stars","issues"])](https://github.com/bucharitesh/github-readme-stats)
+
+<a href="mailto:contact@bucharitesh.in"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souvikghosh199831@gmail.com" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/bucharitesh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/bucha._.ritesh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/bucharitesh"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a></div>
+---
+
+⭐️ From [@Ritesh](https://github.com/bucharitesh)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/bucharitesh)
 
 <!--
 **bucharitesh/bucharitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
