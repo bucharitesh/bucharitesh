@@ -58,7 +58,8 @@
     </table>
 </details>
 
-
+<br/>
+[![Ritesh's github stats](https://github-readme-stats.vercel.app/api?username=bucharitesh)](https://github.com/bucharitesh/github-readme-stats)
 
 <!--
 **bucharitesh/bucharitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
