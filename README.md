@@ -3,7 +3,7 @@
     <strong>I am a student of Computer Science at SRM University, KTR. I am a Full stack developer. Experienced in Web development, Blockchain Development, Logics, Android App development.</strong>
 </p><br>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/bucharitesh) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=bucharitesh.visitor-badge)](https://github.com/bucharitesh) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bucharitesh)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/bucharitesh) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bucharitesh)
 
 <br/><br/>
 <details align="center">
