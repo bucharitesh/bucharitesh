@@ -60,8 +60,6 @@
     </table>
 </details>
     
-    <br/><br/>
-    
 <a href="mailto:contact@bucharitesh.in"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souvikghosh199831@gmail.com" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/bucharitesh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/bucha._.ritesh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
