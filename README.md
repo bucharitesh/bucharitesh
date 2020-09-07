@@ -16,11 +16,9 @@
              <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-programming.png"/><br>C</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/><br>C++</td>
-             <td  align = "center"><img src="https://i.ibb.co/8BvfsCp/kotlin.png" alt="kotlin" border="0"><br>Kotlin</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
          </tr>
          <tr align="center">
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/typescript.png"/><br>TypeScript</td>
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/console.png"/><br>Shell</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/css3.png"/><br>CSS</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/json--v1.png"/><br>Json</td>
@@ -33,16 +31,14 @@
      <table align="center">
          <tr align="center">
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/android-os.png"/><br>Android SDK</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/spring-logo.png"/> <br>Spring Boot</td>
-             <td  align = "center"><img src="https://i.ibb.co/r2GsFdp/jupyter.png" alt="jupyter" border="0"><br>Jupyter Notebook</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
+             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/firebase.png"/><br>Firebase</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
          </tr>
          <tr align="center">
              <td  align = "center"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/><br>GitHub</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/amazon-web-services.png"/><br>AWS Could</td>
              <td  align = "center"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/><br>GCP Cloud</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/firebase.png"/><br>Firebase</td>
              <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/blockchain-new-logo.png"/><br>Blockchain</td>
          </tr>
      </table>
