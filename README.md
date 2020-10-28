@@ -18,27 +18,24 @@
         I am a <b>Fullstack developer</b> 🚀 from <b>Assam, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
-
 </div>
 
 ### <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> What I'm up to
-<div>
-   <ul>
-            <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
-            <li> 💬 Ask me about React <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
-                    width="16" />, Javascript <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
-                    width="16" /></li>
-            <li> 🎓 I'm currently learning React <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
-                    width="16" /></li>
-            <li>📫 How to reach me: <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:contact@bucharitesh.in" target="_blank">contact@bucharitesh.in</a></li>
-            <li>👀 Take a look at <a href="https://bucharitesh.in/" target="_blank">My Portfolio</a></li>
-        </ul>
-</div>
+<ul>
+        <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
+        <li> 💬 Ask me about React <img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
+                width="16" />, Javascript <img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
+                width="16" /></li>
+        <li> 🎓 I'm currently learning React <img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
+                width="16" /></li>
+        <li>📫 How to reach me: <img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
+            <a href="mailto:contact@bucharitesh.in" target="_blank">contact@bucharitesh.in</a></li>
+        <li>👀 Take a look at <a href="https://bucharitesh.in/" target="_blank">My Portfolio</a></li>
+ </ul>
 
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center" width="40" /> Languages and Tools
@@ -69,12 +66,19 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;
-        </p>
+</p>
+        
+        
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://spotify-playingnow-readme.bucharitesh.vercel.app/api/spotify" alt="bucharitesh Spotify Playing" width="350" />](https://open.spotify.com/user/31y2pbdmamx637okjzh4ou2gdmm4)
+[<img src="https://spotify-playingnow-readme.bucharitesh.vercel.app/api/spotify" alt="bucharitesh Spotify Playing" width="350" />](https://open.spotify.com/user/31y2pbdmamx637okjzh4ou2gdmm4)
+
+
 
 <div>
         <details>
