@@ -1,77 +1,50 @@
-<p align="center">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfoliov2-2963d.appspot.com/o/githubfinal.png?alt=media&token=e72d24cc-368e-4702-b762-7b214504805b" alt="Namaste!"/><br><br>
-    <strong>I am a student of Computer Science at SRM University, KTR. I am a Full stack developer. Experienced in Web development, Blockchain Development, Logics, Android App development.</strong>
-</p><br>
+<div align="center">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfoliov2-2963d.appspot.com/o/githubfinal.png?alt=media&token=e72d24cc-368e-4702-b762-7b214504805b" alt="Namaste!"/>
+    <h1>Hai, I am <a href="https://aromalanil.me" target="_blank">Ritesh</a> <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <p>
+        <a href="https://twitter.com/bucha_ritesh" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/bucharitesh" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:contact@bucharitesh.in" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+        <a href="https://medium.com/@bucharitesh" target="_blank"><img alt="Medium"
+                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+        <a href="https://t.me/bucharitesh"><img alt="Telegram"
+                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+    </p><br />
+    <p>🙏🏻 Welcome to my Github profile!<br />
+        I am a <b>Fullstack developer</b> 🚀 from <b>Assam, India</b> <img
+            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/bucharitesh) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bucharitesh)   ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/bucharitesh)
+</div>
 
-<br/><br/>
+<div>
+    <div>
+        <h2><img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
+            What I'm up to</h2>
+        <ul>
+            <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
+            <li> 💬 Ask me about React <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
+                    width="16" />, Javascript <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
+                    width="16" /></li>
+            <li> 🎓 I'm currently learning React <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
+                    width="16" /></li>
+            <li>📫 How to reach me: <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
+                <a href="mailto:contact@bucharitesh.in" target="_blank">contact@bucharitesh.in</a></li>
+            <li>👀 Take a look at <a href="https://bucharitesh.in/" target="_blank">My Portfolio</a></li>
+<!--             <li>📄 Here's my <a href="https://aromalanil.me/assets/resources/resume.pdf" target="_blank">Resume</a></li> -->
+        </ul>
+    </div>
+</div>
+
+[![Spotify](https://https://spotify-playingnow-readme.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 [![Ritesh's github stats](https://github-readme-stats.vercel.app/api?username=bucharitesh&hide=["stars","issues"]&show_icons=true)](https://github.com/bucharitesh/github-readme-stats)
-
-<details align="center">
-    <summary align="center"><strong>Programming Languages:</strong></summary><br/>
-     <table align="center">
-         <tr align="center">
-             <td  align = "center"><img src="https://i.ibb.co/sqwPMvX/python.png" alt="python" border="0"><br>Python</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-programming.png"/><br>C</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/><br>C++</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/javascript.png"/><br>JavaScript</td>
-         </tr>
-         <tr align="center">
-             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/console.png"/><br>Shell</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/css3.png"/><br>CSS</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/json--v1.png"/><br>Json</td>
-             <td  align = "center"><img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/><br>SQL</td>
-         </tr>
-     </table>
-        </details>
- <details align="center">
-    <summary align="center"><strong>Tools and Technologies:</strong></summary><br/>
-     <table align="center">
-         <tr align="center">
-             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/android-os.png"/><br>Android SDK</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/raspberry-pi.png"/><br>Raspberry Pi</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/firebase.png"/><br>Firebase</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/git.png"/><br>Git</td>
-         </tr>
-         <tr align="center">
-             <td  align = "center"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/><br>GitHub</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/amazon-web-services.png"/><br>AWS Could</td>
-             <td  align = "center"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/><br>GCP Cloud</td>
-             <td  align = "center"><img src="https://img.icons8.com/fluent/24/000000/blockchain-new-logo.png"/><br>Blockchain</td>
-         </tr>
-     </table>
-        </details>
-<details align="center">
-    <summary align="center"><strong>Contact:</strong></summary><br/>
-     <table align="center">
-         <tr align="center">
-             <td  align = "center"><a href="https://www.bucharitesh.in"><img src="https://img.icons8.com/fluent/24/000000/domain.png"/><br>Website</a></td>
-             <td  align = "center"><a href="https://www.linkedin.com/in/bucharitesh"><img src="https://img.icons8.com/color/24/000000/linkedin.png"/><br>LinkedIn</a></td>
-             <td  align = "center"><a href="https://www.instagram.com/bucha._.ritesh"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png"/><br>Instagram</a</td>
-             <td  align = "center"><a href="https://www.facebook.com/bucharitesh"><img src="https://img.icons8.com/fluent/24/000000/facebook-new.png"/><br>Facebook</a></td>
-             <td  align = "center"><a href="https://www.twitter.com/bucharitesh"><img src="https://img.icons8.com/fluent/24/000000/twitter.png"/><br>Twitter</a></td>
-     </tr>
-    </table>
-</details>
-    
-<a href="mailto:contact@bucharitesh.in"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souvikghosh199831@gmail.com" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/bucharitesh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/bucha._.ritesh/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/bucharitesh"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-</div>
-<!--
-**bucharitesh/bucharitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
