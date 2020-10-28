@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfoliov2-2963d.appspot.com/o/githubfinal.png?alt=media&token=e72d24cc-368e-4702-b762-7b214504805b" alt="Namaste!"/>
-    <h1>Hai, I am <a href="https://aromalanil.me" target="_blank">Ritesh</a> <img
+    <h1>नमस्ते, I am <a href="https://aromalanil.me" target="_blank">Ritesh</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <p>
         <a href="https://twitter.com/bucha_ritesh" target="_blank"><img alt="Twitter"
