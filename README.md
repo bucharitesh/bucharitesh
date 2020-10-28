@@ -45,6 +45,8 @@
     </div>
 </div>
 
-[![Spotify](https://https://spotify-playingnow-readme.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+### Spotify Playing 🎧
+
+[<img src="https://spotify-playingnow-readme.vercel.app/api/spotify" alt="bucharitesh Spotify Playing" width="350" />](https://open.spotify.com/user/31y2pbdmamx637okjzh4ou2gdmm4)
 
 [![Ritesh's github stats](https://github-readme-stats.vercel.app/api?username=bucharitesh&hide=["stars","issues"]&show_icons=true)](https://github.com/bucharitesh/github-readme-stats)
