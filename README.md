@@ -21,11 +21,10 @@
 
 </div>
 
+### <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> What I'm up to
+        
 <div>
     <div>
-        <h2><img align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
-            What I'm up to</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
             <li> 💬 Ask me about React <img align="center"
@@ -34,16 +33,16 @@
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
                     width="16" /></li>
             <li> 🎓 I'm currently learning React <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
+                    src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:contact@bucharitesh.in" target="_blank">contact@bucharitesh.in</a></li>
             <li>👀 Take a look at <a href="https://bucharitesh.in/" target="_blank">My Portfolio</a></li>
-<!--             <li>📄 Here's my <a href="https://aromalanil.me/assets/resources/resume.pdf" target="_blank">Resume</a></li> -->
         </ul>
     </div>
 </div>
+
 
 ### Spotify Playing 🎧
 
