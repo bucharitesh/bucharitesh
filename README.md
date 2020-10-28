@@ -20,7 +20,10 @@
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
 </div>
 
+<br/>
+
 ### <img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> What I'm up to
+
 <ul>
         <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
         <li> 💬 Ask me about React <img align="center"
@@ -37,6 +40,7 @@
         <li>👀 Take a look at <a href="https://bucharitesh.in/" target="_blank">My Portfolio</a></li>
  </ul>
 
+<br/>
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center" width="40" /> Languages and Tools
 
@@ -67,7 +71,8 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;
 </p>
-        
+  
+<br/>
         
 ### <img src="https://camo.githubusercontent.com/bae9061ce34dc6ee2b924f8eb2cbed71921276cf/687474703a2f2f736169666b686963686939362e6769746875622e696f2f70726f6a656374732f64657369676e732f616e696d617469636f6e2d7265636f6c6f722f70656e63696c2f757064617465642e676966" align="center" width="40" /> Blog posts 
 
@@ -79,26 +84,19 @@
 - [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 <!-- BLOG-POST-LIST:END -->
 
-
-https://camo.githubusercontent.com/bae9061ce34dc6ee2b924f8eb2cbed71921276cf/687474703a2f2f736169666b686963686939362e6769746875622e696f2f70726f6a656374732f64657369676e732f616e696d617469636f6e2d7265636f6c6f722f70656e63696c2f757064617465642e676966
+<br/>
 
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-playingnow-readme.bucharitesh.vercel.app/api/spotify" alt="bucharitesh Spotify Playing" width="350" />](https://open.spotify.com/user/31y2pbdmamx637okjzh4ou2gdmm4)
 
 
+<br/>
 
-<div>
-        <details>
-            <summary>
-                :octocat: Github Stats
-            </summary>
-            <br />
-            <p align="center">
-                <img height="160" alt="Ritesh's Github Stats"
-                    src="https://github-readme-stats.bucharitesh.vercel.app/api?username=bucharitesh&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
-                <img alt="Ritesh's Github Stats" height="160"
-                    src="https://github-readme-stats.bucharitesh.vercel.app/api/top-langs/?username=bucharitesh&hide=assembly&layout=compact&theme=algolia" />
-            </p>
-        </details>
-</div>
+### :octocat: Github Stats
+<p align="center">
+    <img height="160" alt="Ritesh's Github Stats"
+        src="https://github-readme-stats.bucharitesh.vercel.app/api?username=bucharitesh&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
+    <img alt="Ritesh's Github Stats" height="160"
+        src="https://github-readme-stats.bucharitesh.vercel.app/api/top-langs/?username=bucharitesh&hide=assembly&layout=compact&theme=algolia" />
+</p>
