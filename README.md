@@ -91,7 +91,7 @@
 ### :octocat: Github Stats
 <p align="center">
     <img height="160" alt="Ritesh's Github Stats"
-        src="https://github-readme-stats.bucharitesh.vercel.app/api?username=bucharitesh&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
+        src="https://github-readme-stats.vercel.app/api?username=bucharitesh&show_icons=true&theme=tokyonight" />
     <img alt="Ritesh's Github Stats" height="160"
-        src="https://github-readme-stats.bucharitesh.vercel.app/api/top-langs/?username=bucharitesh&hide=assembly&layout=compact&theme=algolia" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bucharitesh&hide=assembly&layout=compact&theme=tokyonight" />
 </p>
